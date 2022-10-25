@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Jana Rafat\source\repos\Task_3_p9\Task_3_p9\Source.cpp(109,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Task_3_p9.vcxproj -> C:\Users\Jana Rafat\source\repos\Task_3_p9\x64\Debug\Task_3_p9.exe
